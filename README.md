@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=gurleyryan&style=for-the-badge&color=86CBDA)
+![](https://komarev.com/ghpvc/?username=gurleyryan&style=for-the-badge&color=86CBDA) </br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22344cjhnouf33v54tjcbhbvi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=86CBDA&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22344cjhnouf33v54tjcbhbvi&redirect=true)
 
 <!--
 **gurleyryan/gurleyryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
