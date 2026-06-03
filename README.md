@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=gurleyryan&style=for-the-badge&color=86CBDA) </br> 🎵 **Musician** | 💻 **Programmer** | 🛠️ **Systems Thinker** | 🌱 **Activist** 
 
-I release my own music, collaborate with others, and build open-source projects like [SparkRoot](https://github.com/gurleyryan/SparkRoot) and the [MDEDB](https://github.com/gurleyryan/MDEDB) grassroots climate org directory for [Music Declares Emergency](https://musicdeclares.net/us)'s Amplify program.
+I release my own music, collaborate with others, and build open-source projects like the [MDEDB](https://github.com/gurleyryan/MDEDB) grassroots climate org directory for [Music Declares Emergency](https://musicdeclares.net/us)'s Amplify program.
 
 **Your support helps me dedicate more time to creative coding, music, and community-driven initiatives.**
 
